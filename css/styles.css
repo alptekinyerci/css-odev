@@ -1,0 +1,45 @@
+.imgg {
+    text-align: -webkit-center;
+}
+
+.kutu1 {
+    display: block;
+    text-align: -webkit-center;
+    background-color: rgb(222, 223, 224);
+    border: 0; width: 90%;
+    margin-left: 5%;
+    padding-bottom: 1%;
+}
+
+.kutu2{
+    background-color: #7EE5DA;
+    width: 30%;
+    display: block;
+    text-align: -webkit-center;
+    float: left; 
+    margin-left: 5%;
+    padding: 25px 0 20px 0;
+    height: 73px
+}
+
+.kutu3{
+    background-color: #70ccc2;
+    width: 30%;
+    display: block;
+    text-align: -webkit-center;
+    float: left;
+    font-size: 90% ;
+    box-sizing: border-box;
+    height: 118px
+}
+
+.kutu4 {
+    background-color: #62b3aa;
+    width: 30%;
+    display: block;
+    text-align: -webkit-center;
+    float: left;
+    font-size: 90%;
+    height: 78px;
+    padding: 20px 0 20px 0;
+}
